@@ -52,7 +52,7 @@ together.
 ## Install
 
 Set up [MELPA](http://melpa.milkbox.net/#installing) if you haven't already,
-then type <kbd>M-x package-install RET robe RET</kbd>.
+then type <kbd>M-x package-install RET robe RET</kbd> or el-get-install role-mode & helm-role.
 
 In the init file:
 
